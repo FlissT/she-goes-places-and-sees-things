@@ -24,12 +24,7 @@ meta:
   _wp_old_slug: '92'
   original_post_id: '92'
   _thumbnail_id: '99'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">Rotorua is a reasonably large town by New Zealand standards of some 56,000 people, situated fairly centrally in the North Island, just south of the Bay of Plenty. There are many lakes in the area, the town itself lying on the shores of the largest one, Lake Rotorua.</p>
 <div style="float:left; padding-right:30px">

@@ -23,12 +23,7 @@ meta:
   _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '377'
   _wp_old_slug: '377'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">Edinburgh, the capital city of Scotland located on the banks of the Firth of Forth, home to the Scottish Parliament, the world-famous Fringe festival and the destination of my latest travelling adventure.</p>
 <div style="float:left; padding-right:30px">

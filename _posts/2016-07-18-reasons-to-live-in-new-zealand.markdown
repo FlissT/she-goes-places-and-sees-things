@@ -22,12 +22,7 @@ meta:
   _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '372'
   _thumbnail_id: '374'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">New Zealand, Aotearoa, Land of the Long White Cloud…these are just a few of the names for these little islands lying way down here in the Tasman Sea. The country is pretty much as far away as you can get from the UK, literally on the other side on the world, which does make it feel like a good place to escape to. It seems at the moment that barely a day goes by without news of political upheaval, acts of violence and terrorist threats, which makes New Zealand feel like a safe little paradise, quiet, calm and relaxed. Of course, I'm not saying the country is perfect, it still has its issues but especially right now, it's pretty awesome. In fact, quite a few of the people I know who moved here temporarily at about the same time I did are all still here and don't really want to leave!</p>
 

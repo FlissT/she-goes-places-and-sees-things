@@ -27,12 +27,7 @@ meta:
   original_post_id: '544'
   _wp_old_slug: '544'
   _thumbnail_id: '550'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">So, a month to travel between two cities may sound like a lot...but not when it's the Australian East Coast! My adventures here last year saw me spend 30 days travelling the 3000km from Melbourne, in southern Victoria, all the way up to Cairns in northern Queensland. In hindsight, I would have liked to have had a lot more time travelling this well-trodden backpacker route, a few months or a year perhaps! What I did have, however, was four weeks of action-packed travelling, very much going places and seeing things!</p>
 

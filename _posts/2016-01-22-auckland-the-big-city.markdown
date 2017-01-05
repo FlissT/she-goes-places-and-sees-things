@@ -23,12 +23,7 @@ meta:
   _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '61'
   _thumbnail_id: '72'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <div style="float:left; padding-right:30px">
 <img class="wp-image-64  alignright" src="{{ site.baseurl }}/assets/P1010031-2-1024x642.jpg" alt="The Auckland skyline" width="462" height="290" />

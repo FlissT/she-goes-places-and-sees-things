@@ -24,12 +24,7 @@ meta:
   original_post_id: '356'
   _wp_old_slug: '356'
   _thumbnail_id: '364'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">New Zealand is well known for its stunning natural beauty and diverse landscapes, which are reasons why so many tourists and backpackers want to visit. From the many places that I've now visited, here are a few that I think are among the best.</p>
 

@@ -24,12 +24,7 @@ meta:
   _yoast_wpseo_primary_category: '4'
   _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '40'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="center"><img class="wp-image-78  aligncentre" src="{{ site.baseurl }}/assets/IMG_4183-2-1024x768.jpg" alt="On the shore of Lake Wakatipu" width="486" height="365" /></p>
 

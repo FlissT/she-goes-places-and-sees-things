@@ -24,12 +24,7 @@ meta:
   original_post_id: '29'
   _wp_old_slug: '29'
   _thumbnail_id: '30'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 
 <h3 class="western" align="JUSTIFY">Fancy visiting 'The coolest little capital in the World'?</h3>

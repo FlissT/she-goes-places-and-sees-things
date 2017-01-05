@@ -24,12 +24,7 @@ meta:
   original_post_id: '247'
   _wp_old_slug: '247'
   _thumbnail_id: '257'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">The South Island's west coast is a rugged, remote place. There are no cities, <a href="https://en.wikipedia.org/wiki/Greymouth" target="_blank">Greymouth</a> is the largest town with almost 10,000 people and only one major road, State Highway 6 (SH6), that is almost all single-carriageway. It is however, a stunningly beautiful part of New Zealand with mountains, glaciers, rainforests, incredible rock formations and the rough Tasman Sea, while a little way further south is Fiordland, home to the world-famous Milford and Doubtful Sounds. This is definitely an area of the country to spend a bit of time exploring.</p>
 

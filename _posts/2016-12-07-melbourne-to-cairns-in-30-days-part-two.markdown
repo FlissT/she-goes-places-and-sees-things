@@ -23,12 +23,7 @@ meta:
   _yoast_wpseo_focuskw_text_input: Cairns
   original_post_id: '608'
   _wp_old_slug: '608'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <h3 class="western" align="JUSTIFY">THE JOURNEY, PART TWO</h3>
 <h3 class="western" align="JUSTIFY">Surfers Paradise</h3>

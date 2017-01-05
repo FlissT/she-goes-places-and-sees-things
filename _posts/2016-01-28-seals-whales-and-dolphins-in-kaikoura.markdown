@@ -25,12 +25,7 @@ meta:
   original_post_id: '229'
   _wp_old_slug: '229'
   _thumbnail_id: '236'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">Kaikoura (M<span style="font-family:'Liberation Serif', serif;">ā</span>ori: kai means food, koura means crayfish) is a small seaside town a couple of hours drive north from Christchurch, on the South Island's east coast. The Kaikoura Ranges provide a beautiful mountain backdrop to the town and are part of the Southern Alps range that run almost the entire length of the South Island.</p>
 

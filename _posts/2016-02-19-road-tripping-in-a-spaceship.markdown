@@ -26,12 +26,7 @@ meta:
   original_post_id: '262'
   _wp_old_slug: '262'
   _thumbnail_id: '264'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <div style="float:right; padding-left:30px">
 <img class="wp-image-264 alignright" src="{{ site.baseurl }}/assets/IMG_4519-2-300x231.jpg" alt="Vesta" width="387" height="298" />

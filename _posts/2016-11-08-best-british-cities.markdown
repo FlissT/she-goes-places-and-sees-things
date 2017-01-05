@@ -20,12 +20,7 @@ meta:
   original_post_id: '447'
   _wp_old_slug: '447'
   _thumbnail_id: '459'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">Having fairly recently moved back to the UK after more than a year abroad, I have found, in some ways, a renewed appreciation for my home country. Over the last few weeks, I've visited a few British cities including a couple I hadn't been to before, so, here is a round-up of my favourite cities in Britain.</p>
 

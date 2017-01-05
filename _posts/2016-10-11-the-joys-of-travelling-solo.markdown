@@ -20,12 +20,7 @@ meta:
   _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '394'
   _wp_old_slug: '394'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">A few years ago, I never thought that solo travelling would be for me. I've always had an independent streak but never thought I'd enjoy travelling by myself. When, at the start of 2015, I made the leap to explore New Zealand and Australia, almost everyone seemed stunned that I was going to go alone, and okay, I was a little bit scared! After I'd got over the initial culture shock however, I quickly found that the whole solo travelling thing really is a lot of fun!</p>
 

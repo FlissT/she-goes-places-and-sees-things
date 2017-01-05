@@ -23,12 +23,7 @@ meta:
   original_post_id: '276'
   _wp_old_slug: '276'
   _thumbnail_id: '286'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: ''
-  #last_name: ''
+
 ---
 <p class="western" align="JUSTIFY">If you like a good walk, then you will be in heaven here in New Zealand as there are just so many trails and bushwalks on offer throughout the country. From quick strolls to day hikes to multi-day treks, New Zealand has it all and it's definitely worth pulling on your hiking boots while you are here. In fact, I would go as far as to say that you haven't properly experienced the Kiwi countryside until you have gone tramping (the Kiwi term for hiking) through it.</p>
 
