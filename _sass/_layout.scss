@@ -1,10 +1,21 @@
 /**
+ * Container
+ */
+.div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+
+
+/**
  * Site header
  */
 .site-header {
   border-top: 2px solid $grey-color-light;
   border-bottom: 2px solid $grey-color-light;
   min-height: 56px;
+  background-color: #00ba94;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -17,10 +28,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: #333333;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: #333333;
   }
 }
 
@@ -33,7 +45,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: #333333;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -88,7 +100,6 @@
 }
 
 
-
 /**
  * Site footer
  */
@@ -100,17 +111,18 @@
 .footer-heading {
   font-size: 18px;
   margin-bottom: $spacing-unit / 2;
+  color: #999999;
 }
 
 .contact-list,
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  color: #999999;
 }
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -164,6 +176,24 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  margin-left: 150px;
+  border-left:2px solid;
+}
+ 
+.nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+.nav ul a {
+    text-decoration: none;
 }
 
 .page-heading {
@@ -188,8 +218,6 @@
   display: block;
   font-size: 24px;
 }
-
-
 
 /**
  * Posts
