@@ -31,7 +31,7 @@ author:
   #first_name: ''
   #last_name: ''
 ---
+
 <h3 class="western" align="JUSTIFY">Fancy visiting 'The coolest little capital in the World'?</h3>
 <p class="western" align="JUSTIFY">Wellington is one of the liveliest, most liveable cities I've ever visited.&nbsp;There is&nbsp;plenty to do here, including hiking trails, beaches, museums, quirky cafés and bars! If you'd like to get to know New Zealand's beautiful capital city, check out my article at&nbsp;<a href="http://travelicious.world/welcome-to-wellington/" target="_blank">travelicious.world</a>&nbsp;for loads of information and travel ideas!</p>
 <p class="western" align="center"><img class="aligncenter wp-image-85 size-large" src="{{ site.baseurl }}/assets/001-2-1024x768.jpg" alt="A crisp winter day overlooking Wellington harbour" width="474" height="356" /></p>
-
