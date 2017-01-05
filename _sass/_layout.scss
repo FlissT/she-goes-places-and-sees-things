@@ -1,14 +1,4 @@
 /**
- * Container
- */
-.div.container {
-    width: 100%;
-    border: 1px solid gray;
-}
-
-
-
-/**
  * Site header
  */
 .site-header {
@@ -169,31 +159,11 @@
   }
 }
 
-
-
 /**
  * Page content
  */
 .page-content {
   padding: $spacing-unit 0;
-  margin-left: 150px;
-  border-left:2px solid;
-}
- 
-.nav {
-    float: left;
-    max-width: 160px;
-    margin: 0;
-    padding: 1em;
-}
-
-.nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-   
-.nav ul a {
-    text-decoration: none;
 }
 
 .page-heading {
@@ -264,4 +234,3 @@
     }
   }
 }
-  
