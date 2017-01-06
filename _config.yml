@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: She Goes Places And Sees Things
-email: #flisstee@hotmail.co.uk
+#email: 
 description: Tales of some adventures in New Zealand and beyond...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: flissieT
 github_username:  FlissT
+instagram_username: she_goesplaces
 
 # Build settings
 markdown: kramdown
