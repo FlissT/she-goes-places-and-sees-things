@@ -52,6 +52,7 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+ 
 
     .menu-icon {
       display: block;
@@ -80,11 +81,13 @@
     .page-link {
       display: block;
       padding: 5px 10px;
+      color:  #00ba94;
+      text-align: left;
 
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
+      margin-left: 0px;
     }
   }
 }
