@@ -4,7 +4,7 @@
 .site-header {
   border-top: 2px solid $grey-color-light;
   border-bottom: 2px solid $grey-color-light;
-  min-height: 56px;
+  min-height: 100px;
   background-color: #00ba94;
 
   // Positioning context for the mobile navigation icon
@@ -12,7 +12,7 @@
 }
 
 .site-title {
-  font-size: 26px;
+  font-size: 36px;
   font-weight: 300;
   line-height: 56px;
   letter-spacing: -1px;
@@ -170,7 +170,7 @@
 }
 
 .page-heading {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 .post-list {
@@ -189,7 +189,21 @@
 
 .post-link {
   display: block;
-  font-size: 24px;
+  font-size: 22px;
+
+  &,
+  &:visited {
+    color: #00ba94;
+  }
+}
+.site-sidebar {
+  display: block;
+  font-size: 16px;
+
+  &,
+  &:visited {
+    color: #00ba94;
+  }
 }
 
 /**
@@ -200,7 +214,7 @@
 }
 
 .post-title {
-  font-size: 42px;
+  font-size: 36px;
   letter-spacing: -1px;
   line-height: 1;
 
