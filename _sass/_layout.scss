@@ -167,6 +167,7 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  
 }
 
 .page-heading {
@@ -176,10 +177,14 @@
 .post-list {
   margin-left: 0;
   list-style: none;
+  
 
   > li {
     margin-bottom: $spacing-unit;
-
+    text-align: center;
+  }
+  > ul {
+    display: inline-block;
   }
 }
 
@@ -189,8 +194,9 @@
 }
 
 .post-link {
-  display: block;
+  display: block; 
   font-size: 22px;
+
 
   &,
   &:visited {
