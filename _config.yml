@@ -17,7 +17,7 @@ title: She Goes Places And Sees Things
 #email: 
 description: Tales of some adventures in New Zealand and beyond...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shegoesplacesandseesthings.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: flissieT
 github_username:  FlissT
 instagram_username: she_goesplaces
