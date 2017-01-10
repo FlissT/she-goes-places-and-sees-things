@@ -21,6 +21,7 @@ url: "www.shegoesplacesandseesthings.com" # the base hostname & protocol for you
 twitter_username: flissieT
 github_username:  FlissT
 instagram_username: she_goesplaces
+google_analytics: UA-72744985-1
 
 # Build settings
 markdown: kramdown
