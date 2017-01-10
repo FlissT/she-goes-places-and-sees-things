@@ -18,65 +18,60 @@ meta:
   _layout: inherit
   original_post_id: '462'
   _wp_old_slug: '462'
-author:
-  #login: flisstee26
-  #email: flisstee@hotmail.co.uk
-  #display_name: Fliss
-  #first_name: Felicity
-  #last_name: T
+
 ---
-<div style="float:left; padding:0px 25px 25px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" alt="Abel Tasman" width="330" height="330" class="img-rounded" />
+<div style="float:left; padding:0px 10px 10px 5px">
+<img src="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" alt="Abel Tasman" width="330" height="330" />
 </div>
 
-<div style="float:right; padding:0px 0px 25px 25px">
+<div style="float:left; padding:0px 5px 10px 0px">
 <img src="{{ site.baseurl }}/assets/front-page/abeltasmankayak.jpg" alt="Kayaking Abel Tasman" width="330" height="330" />
 </div>
 
-<div style="float:left; padding:0px 25px 25px 0px">
+<div style="float:left; padding:5px 10px 10px 5px">
 <img src="{{ site.baseurl }}/assets/front-page/aoraki.jpg" alt="Aoraki/Mount Cook" width="330" height="330" />
 </div>
 
-<div style="float:right; padding:0px 0px 25px 25px">
+<div style="float:left; padding:5px 5px 10px 0px">
 <img src="{{ site.baseurl }}/assets/front-page/cathedralcove.jpg" alt="Cathedral Cove" width="330" height="330" />
 </div>
 
-<div style="float:left; padding:0px 25px 25px 0px">
+<div style="float:left; padding:5px 10px 10px 5px">
 <img src="{{ site.baseurl }}/assets/front-page/daysbay.jpg" alt="Days Bay" width="330" height="330" />
 </div>
 
-<div style="float:right; padding:0px 0px 25px 25px">
+<div style="float:left; padding:5px 5px 10px 0px">
 <img src="{{ site.baseurl }}/assets/front-page/eastcape.jpg" alt="East Cape" width="330" height="330" />
 </div>
 
-<div style="float:left; padding:0px 25px 25px 0px">
+<div style="float:left; padding:5px 10px 10px 5px">
 <img src="{{ site.baseurl }}/assets/front-page/kaikoura.jpg" alt="Kaikoura" width="330" height="330" />
 </div>
 
-<div style="float:right; padding:0px 0px 25px 25px">
+<div style="float:left; padding:5px 5px 10px 0px">
 <img src="{{ site.baseurl }}/assets/front-page/keysummit.jpg" alt="Key Summit" width="330" height="330" />
 </div>
 
-<div style="float:left; padding:0px 25px 25px 0px">
+<div style="float:left; padding:5px 10px 10px 5px">
 <img src="{{ site.baseurl }}/assets/front-page/milfordsound.jpg" alt="Milford Sound" width="330" height="330" />
 </div>
 
-<div style="float:right; padding:0px 0px 25px 25px">
+<div style="float:left; padding:5px 5px 10px 0px">
 <img src="{{ site.baseurl }}/assets/front-page/mirrorlake.jpg" alt="MirrorLake" width="330" height="330" />
 </div>
 
-<div style="float:left; padding:0px 25px 25px 0px">
+<div style="float:left; padding:5px 10px 10px 5px">
 <img src="{{ site.baseurl }}/assets/front-page/pororari.jpg" alt="Pororari" width="330" height="330" />
 </div>
 
-<div style="float:right; padding:0px 0px 25px 25px">
+<div style="float:left; padding:5px 5px 10px 0px">
 <img src="{{ site.baseurl }}/assets/front-page/queenstown.jpg" alt="Queenstown" width="330" height="330" />
 </div>
 
-<div style="float:left; padding:0px 25px 25px 0px">
+<div style="float:left; padding:5px 10px 10px 5px">
 <img src="{{ site.baseurl }}/assets/front-page/queenstownhill.jpg" alt="Queenstown Hill" width="330" height="330" />
 </div>
 
-<div style="float:right; padding:0px 0px 25px 25px">
+<div style="float:left; padding:5px 5px 10px 0px">
 <img src="{{ site.baseurl }}/assets/front-page/tongariro.jpg" alt="Tongariro" width="330" height="330" />
 </div>
