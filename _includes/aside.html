@@ -1,28 +1,14 @@
 <aside class="site-sidebar">
-  <h2>Recent Posts</h2>
-  <ul>
-    {% for post in site.posts limit:5 site.recent_posts %}
-      <li>
-        <a href="{{ site.github.url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-<aside class="site-sidebar">
   <div class="module">
   <header class="block-module-header">
-  <h2>Categories</h2>
+    <h3>RECENT POSTS</h3>
   </header>
-  <ul>
-  {% for cat in site.categories %}
-	{% assign cat_name = cat | first %}
-	{% assign cat_size = cat | last | size %}
-  <li>
-   <a class="bold">
-   {{cat_name}} ({{cat_size}})
-  </li>
-   </a>
-  {% endfor %}
-  </ul>
-  </div>
-</aside>
+      <ul>
+        {% for post in site.posts limit:5 site.recent_posts %}
+        <li>
+          <a href="{{ site.github.url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
+        </li>
+    {% endfor %}
+      </ul>
+
+

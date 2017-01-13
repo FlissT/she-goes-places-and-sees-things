@@ -2,21 +2,23 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {% include head.html %}
-  {% include header.html %}
-  <article class="row">
-    <section>
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+  {% include navbar.html %}
+<main class="page-content" aria-label="Content">
+<div class="container-fluid text-center">    
+  <div class="row content">
+
+    <div class="col-sm-9 text-center">   
         {{ content }}
       </div>
-    </section>
 
-    <aside>
-      <div class="wrapper">
+    <div class="col-sm-3 sidenav">
         {% include aside.html %}
-      </div>
-    </aside>
+    </div> 
+
+  </div>
+</div>
+</main>
 
     {% include footer.html %}
-  </article>
+
 </html>

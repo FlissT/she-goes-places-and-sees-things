@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-  border-top: 2px solid $grey-color-light;
-  border-bottom: 2px solid $grey-color-light;
-  min-height: 100px;
+  border-top: none;
+  border-bottom: none;
+  min-height: 60px;
   background-color: #00ba94;
 
   // Positioning context for the mobile navigation icon
@@ -26,23 +26,30 @@
   }
 }
 
-.site-nav {
-  float: right;
-  line-height: 56px;
+/**
+ * Navbar
+ */
 
-  .menu-icon {
-    display: none;
+.navbar { 
+  background-color: #00ba94;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 2px solid $grey-color-light;
+  border-radius: 0;
+  margin-bottom: 0;
+  
+}
+
+.navbar-nav  li a:hover {
+  color: #1abc9c !important;
+}
+
+.page-link {
+  // Gaps between nav items, but not on the last one
+  &:not(:last-child) {
+    margin-right: 20px;
   }
-
-  .page-link {
-    color: #333333;
-    line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
-  }
+}
 
   @include media-query($on-palm) {
     position: absolute;
@@ -52,49 +59,7 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg path {
-        fill: $grey-color-dark;
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-&:active .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-      color:  #00ba94;
-      text-align: left;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 0px;
-    }
   }
-}
-
  
 /**
  * Site footer
@@ -184,7 +149,7 @@
 
   > li {
     margin-bottom: $spacing-unit;
-    text-align: center;
+    text-align: centre;
   }
   > ul {
     display: inline-block;
@@ -209,8 +174,9 @@
 
 .site-sidebar {
   display: block;
-  font-size: 16px;
-
+  font-size: 14px;
+  text-align: left;
+ 
   &,
   &:visited {
     color: #00ba94;
