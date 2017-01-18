@@ -18,15 +18,31 @@ meta:
   _wp_old_slug: '486'
 
 ---
-<div style="float:left; padding:0px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/welly.jpg" alt="Wellington" width="400" height="200" />
-</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/welly.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/welly.jpg" alt="Wellington" style="width:100%"> 
+        </a>
+      </div>
+    </div>
 
-<div style="float:right; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/daysbay.jpg" alt="Days Bay" width="330" height="300"  />
-</div>
-
-
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/Walk-to-Island-Bay-029-2-300x84.jpg" alt="Island Bay" width="450" height="200" />
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/daysbay.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/daysbay.jpg" alt="Days Bay" style="width:100%">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/Walk-to-Island-Bay-029-2-300x84.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/Walk-to-Island-Bay-029-2-300x84.jpg" alt="Island Bay" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
 </div>

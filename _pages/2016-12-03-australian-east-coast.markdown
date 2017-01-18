@@ -18,31 +18,61 @@ meta:
   original_post_id: '561'
   _wp_old_slug: '561'
 ---
-<div style="float:left; padding:0px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/P5050729-300x225.jpg" alt="Sydney" width="330" height="330" />
-</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/5050729-300x225.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5050729-300x225.jpg" alt="Sydney" style="width:100%"> 
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:0px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/P5060759-300x191.jpg" alt="Bondi Beach" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P5030687-300x225.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5030687-300x225.jpg" alt="St Kilda" style="width:100%">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P5080786-300x213.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5080786-300x213.jpg" alt="Manly Beach" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P1010548-2-300x260.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P1010548-2-300x260.jpg" alt="Melbourne" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/1907671_10155656504680077_1523529798240052236_n-225x300.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/1907671_10155656504680077_1523529798240052236_n-225x300.jpg" alt="Great Barrier Reef" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
 
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/P5080786-300x213.jpg" alt="Manly Beach" width="330" height="330" />
-</div>
-
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/P1010548-2-300x260.jpg" alt="Melbourne" width="330" height="330" />
-</div>
-
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/P5030687-300x225.jpg" alt="St Kilda" width="330" height="330" />
-</div>
-
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/1907671_10155656504680077_1523529798240052236_n-225x300.jpg" alt="Great Barrier Reef" width="330" height="330" />
-</div>
-
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/11167705_10155600748230077_6022630505611865371_n-300x225.jpg" alt="Surfers Paradise" width="330" height="330" />
-</div>
-
+  <div class="row">
+   <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P5060759-300x191.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5060759-300x191.jpg" alt="Bondi Beach" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/11167705_10155600748230077_6022630505611865371_n-300x225.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/11167705_10155600748230077_6022630505611865371_n-300x225.jpg" alt="Surfers Paradise" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>

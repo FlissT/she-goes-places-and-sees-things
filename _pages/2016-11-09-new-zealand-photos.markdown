@@ -20,58 +20,125 @@ meta:
   _wp_old_slug: '462'
 
 ---
-<div style="float:left; padding:0px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" alt="Abel Tasman" width="330" height="330" />
-</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" alt="Abel Tasman" style="width:100%"> 
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:0px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/abeltasmankayak.jpg" alt="Kayaking Abel Tasman" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/abeltasmankayak.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/abeltasmankayak.jpg" alt="Kayaking Abel Tasman" style="width:100%">
+        </a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/aoraki.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/aoraki.jpg" alt="Aoraki/Mount Cook" style="width:100%">
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/aoraki.jpg" alt="Aoraki/Mount Cook" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/tongariro.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/tongariro.jpg" alt="Tongariro" style="width:100%"> 
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/cathedralcove.jpg" alt="Cathedral Cove" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/daysbay.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/daysbay.jpg" alt="Days Bay" style="width:100%">
+        </a>
+      </div>
+    </div>
+  </div>
 
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/daysbay.jpg" alt="Days Bay" width="330" height="330" />
-</div>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/eastcape.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/eastcape.jpg" alt="East Cape" style="width:100%"> 
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/eastcape.jpg" alt="East Cape" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/kaikoura.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/kaikoura.jpg" alt="Kaikoura" style="width:100%">
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/kaikoura.jpg" alt="Kaikoura" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/keysummit.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/keysummit.jpg" alt="Key Summit" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/milfordsound.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/milfordsound.jpg" alt="Milford Sound" style="width:100%">
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/keysummit.jpg" alt="Key Summit" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/mirrorlake.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/mirrorlake.jpg" alt="Mirror Lake" style="width:100%"> 
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/milfordsound.jpg" alt="Milford Sound" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/queenstownhill.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/queenstownhill.jpg" alt="Queenstown Hill" style="width:100%">
+        </a>
+      </div>
+    </div>
+  </div>
 
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/mirrorlake.jpg" alt="MirrorLake" width="330" height="330" />
-</div>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/queenstown.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/queenstown.jpg" alt="Queenstown" style="width:100%"> 
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/pororari.jpg" alt="Pororari" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/pororari.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/pororari.jpg" alt="Pororari" style="width:100%">
+        </a>
+      </div>
+    </div>
 
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/queenstown.jpg" alt="Queenstown" width="330" height="330" />
-</div>
-
-<div style="float:left; padding:5px 10px 10px 5px">
-<img src="{{ site.baseurl }}/assets/front-page/queenstownhill.jpg" alt="Queenstown Hill" width="330" height="330" />
-</div>
-
-<div style="float:left; padding:5px 5px 10px 0px">
-<img src="{{ site.baseurl }}/assets/front-page/tongariro.jpg" alt="Tongariro" width="330" height="330" />
-</div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/front-page/cathedralcove.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/cathedralcove.jpg" alt="Cathedral Cove" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
