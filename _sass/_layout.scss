@@ -40,16 +40,15 @@
   
 }
 
-.navbar-nav  li a:hover {
-  color: #1abc9c !important;
+.navbar-nav li a:hover {
+  color: $background-color !important;
 }
 
 .page-link {
-  // Gaps between nav items, but not on the last one
-  &:not(:last-child) {
+    color: $background-color !important;
     margin-right: 20px;
   }
-}
+
 
   @include media-query($on-palm) {
     position: absolute;
