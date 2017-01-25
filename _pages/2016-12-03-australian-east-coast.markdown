@@ -20,58 +20,130 @@ meta:
 ---
 <div class="container">
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/5050729-300x225.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/P5050729-300x225.jpg" alt="Sydney" style="width:100%"> 
+        <a href="{{ site.baseurl }}/assets/P5050729.JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5050729.JPG" alt="Sydney" style="width:100%"> 
         </a>
       </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/P5030687-300x225.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/P5030687-300x225.jpg" alt="St Kilda" style="width:100%">
+        <a href="{{ site.baseurl }}/assets/stkilda.JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/stkilda.JPG" alt="St Kilda" style="width:100%">
         </a>
       </div>
     </div>
   </div>
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/P5080786-300x213.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/P5080786-300x213.jpg" alt="Manly Beach" style="width:100%"> 
+        <a href="{{ site.baseurl }}/assets/manly.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/manly.jpg" alt="Manly Beach" style="width:100%"> 
         </a>
       </div>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/P1010548-2-300x260.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/P1010548-2-300x260.jpg" alt="Melbourne" style="width:100%"> 
-        </a>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/1907671_10155656504680077_1523529798240052236_n-225x300.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/1907671_10155656504680077_1523529798240052236_n-225x300.jpg" alt="Great Barrier Reef" style="width:100%"> 
+        <a href="{{ site.baseurl }}/assets/P1010548 (2).JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P1010548 (2).JPG" alt="Melbourne" style="width:100%"> 
         </a>
       </div>
     </div>
   </div>
-
   <div class="row">
-   <div class="col-md-4">
+    <div class="col-md-5">
       <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/P5060759-300x191.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/P5060759-300x191.jpg" alt="Bondi Beach" style="width:100%">
+        <a href="{{ site.baseurl }}/assets/P5060759.JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5060759.JPG" alt="Bondi Beach" style="width:100%">
         </a>
       </div>
     </div>
-    <div class="col-md-4">
+   <div class="col-md-5">
       <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/11167705_10155600748230077_6022630505611865371_n-300x225.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/11167705_10155600748230077_6022630505611865371_n-300x225.jpg" alt="Surfers Paradise" style="width:100%"> 
+        <a href="{{ site.baseurl }}/assets/barrierreef.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/barrierreef.jpg" alt="Great Barrier Reef" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/surfersparadise.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/surfersparadise.jpg" alt="Surfers Paradise" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+    <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/apostles.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/apostles.jpg" alt="Great Ocean Road" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+   <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/brisbanelagoon.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/brisbanelagoon.jpg" alt="Brisbane Lagoon" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/MCG.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/MCG.jpg" alt="AFL at the MCG" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P5260939.JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5260939.JPG" alt="Airlie Beach" style="width:100%"> 
+        </a>
+      </div>
+     </div>
+   <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P5065752.JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5060752.JPG" alt="Coogee to Bondi" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P5080777.JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5080777.JPG" alt="Sydney Opera House" style="width:100%"> 
+        </a>
+      </div>
+     </div>
+  <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/P5080790.JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/P5080790.JPG" alt="Sydney Harbour Bridge" style="width:100%"> 
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/airliebeach.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/airliebeach.jpg" alt="The beach at Airlie" style="width:100%"> 
+        </a>
+      </div>
+     </div>
+  <div class="col-md-5">
+      <div class="thumbnail">
+        <a href="{{ site.baseurl }}/assets/bondibeach.jpg" target="_blank">
+          <img src="{{ site.baseurl }}/assets/bondibeach.jpg" alt="Bondi Beach" style="width:100%"> 
         </a>
       </div>
     </div>

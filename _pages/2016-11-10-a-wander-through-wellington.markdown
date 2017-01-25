@@ -27,7 +27,6 @@ meta:
         </a>
       </div>
     </div>
-
     <div class="col-md-4">
       <div class="thumbnail">
         <a href="{{ site.baseurl }}/assets/front-page/daysbay.jpg" target="_blank">
