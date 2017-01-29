@@ -42,7 +42,7 @@ meta:
 
 <h3 align="JUSTIFY">CAMBRIDGE</h3>
 <div style="float:left; padding-right:30px">
-<img src="{{ site.baseurl }}/assets/007-300x235.jpg" alt="A sunny day by the river in Cambridge" width="370" height="320" class="img-rounded"/>
+<img src="{{ site.baseurl }}/assets/cambridge.jpg" alt="A sunny day by the river in Cambridge" width="370" height="320" class="img-rounded"/>
 </div>
 
 <p align="JUSTIFY">As my home town, I felt it really should occupy a top spot in this list. The city is home to one of the oldest and best Universities in the world and is a very popular tourist destination for visitors to the UK. While pretty all year round, I'd say Cambridge is at its best (although definitely most busy) in the summer when an afternoon of punting or a stroll to Grantchester are both top activities. Punting especially is very popular and you can either hire your own or have a punt chauffeur to do it for you whilst they talk you through a bit of Cambridge history... Just don't necessarily believe all of their (occasionally made-up) stories!</p>

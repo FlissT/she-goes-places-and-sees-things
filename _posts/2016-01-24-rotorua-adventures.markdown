@@ -28,7 +28,7 @@ meta:
 ---
 <p align="JUSTIFY">Rotorua is a reasonably large town by New Zealand standards of some 56,000 people, situated fairly centrally in the North Island, just south of the Bay of Plenty. There are many lakes in the area, the town itself lying on the shores of the largest one, Lake Rotorua.</p>
 <div style="float:left; padding-right:30px">
-<img src="{{ site.baseurl }}/assets/10407790_10155306572380077_4737605710459266910_n-2-300x300.jpg" alt="Lake Rotorua and Mokoia Island" width="400" height="400" class="img-rounded" />
+<img src="{{ site.baseurl }}/assets/lakerotorua.jpg" alt="Lake Rotorua and Mokoia Island" width="400" height="400" class="img-rounded" />
 </div>
 <p align="JUSTIFY">The area is abundant with geothermal activity with many hot springs, bubbling mud pools and a lingering sulphurous aroma. I am told that the smell takes some getting used to but luckily I had a cold for the entire time I was there so I was spared the experience. Absolutely do not let this put you off visiting however, just be aware of it! The town also has a large M<span style="font-family:'Sans Serif';">ā</span>ori population; the Te Arawa people are made up of several tribes (iwi and hapu) and their lands encompass Rotorua. They are named after the canoe in which their ancestors arrived from their home in Polynesia - their canoe was named <a href="http://www.teara.govt.nz/en/te-arawa" target="_blank">Te Arawa</a> after the shark which attacked them during their voyage to New Zealand.</p>
 
@@ -38,19 +38,19 @@ meta:
 <h3 align="JUSTIFY">Things To Do</h3>
 <p align="JUSTIFY">There is lots to do in Rotorua with the geothermal areas and mountain biking being two of the biggest attractions. The geothermal activity is not difficult to come across. Just a walk around the town will take you past bubbling pools of mud and steaming hot lakes. While most of the really dangerous bits are fenced off, take care when walking around the parks and definitely do not cross any of the fences as the ground can be very hot and extremely unstable, even if it looks safe.</p>
 
-<p align="center"><img src="{{ site.baseurl }}/assets/11018330_10155306571910077_8250363804004047708_n-2-300x225.jpg" alt="Rotorua" width="491" height="368" class="img-rounded"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/rotorua.jpg" alt="Rotorua" width="491" height="368" class="img-rounded"/></p>
 
 <p align="JUSTIFY">If you are looking to make more of a day of it then Waimangu (M<span style="font-family:'Sans Serif';">ā</span>ori for 'black water'), Wai-o-tapu ('sacred waters') and Hells Gate are nearby geothermal parks with lakes, geysers, hot springs and mud baths. Rotorua also has the rather elaborate Rotorua Museum and the botanic gardens which are nice for a walk. Be sure to check out the Thursday night market for some tasty street food as well!</p>
 
 <h3 align="JUSTIFY">Waimangu</h3>
 <p align="JUSTIFY">Waimangu is a volcanic and geothermal valley just outside of Rotorua town and is an excellent place to visit. There are shuttle buses from the town centre and once at the park there is a trail through the valley to Lake Rotomahana which takes a few hours overall and offers views of the incredible Frying Pan Lake, full of acidic, very hot water, and Inferno Crater, an even more acidic, pale blue lake.</p>
-<p align="center"><img src="{{ site.baseurl }}/assets/11025201_10155306573400077_1217193838638248330_n-2-300x126.jpg" alt="Frying Pan Lake" width="510" height="214" class="img-rounded"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/fryingpanlake.jpg" alt="Frying Pan Lake" width="510" height="214" class="img-rounded"/></p>
 
-<p align="center"><img src="{{ site.baseurl }}/assets/P1010096-2-300x225.jpg" alt="Inferno Crater" width="510" height="343" class="img-rounded"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/infernocrater.jpg" alt="Inferno Crater" width="510" height="343" class="img-rounded"/></p>
 
 <p align="JUSTIFY">Whilst walking through the park it is amazing to see boiling hot rivers, steam pouring out from vents high up the hill sides and stunning mineral formations.
 <div style="float:right; padding-left:30px">
-<img src="{{ site.baseurl }}/assets/10353022_10155306574080077_3143084878995690061_n-2-300x225.jpg" alt="Geyser at Waimangu" width="448" height="336" class="img-rounded"/>
+<img src="{{ site.baseurl }}/assets/waimangu.jpg" alt="Geyser at Waimangu" width="448" height="336" class="img-rounded"/>
 </div>
 </p>
 
@@ -65,5 +65,5 @@ meta:
 
 <p align="JUSTIFY">I would definitely recommend including a visit to Rotorua and the surrounding area in any North Island itinerary. If travelling on the Stray backpacker bus as I was when I visited, then make sure to hop off for a few nights as this is not scheduled as a group overnight stop. The town is also a good starting place from which to explore the relatively remote East Cape.</p>
 
-<p align="center"><img src="{{ site.baseurl }}/assets/7080_10155306573065077_2644051146754325038_n-2-225x300.jpg" alt="Lake in Rotorua" width="392" height="523" class="img-rounded"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/rotorualake.jpg" alt="Lake in Rotorua" width="392" height="523" class="img-rounded"/></p>
 
