@@ -4,7 +4,7 @@
     <h3>RECENT POSTS</h3>
   </header>
       <ul>
-        {% for post in site.posts limit:5 site.recent_posts %}
+        {% for post in site.posts limit:6 site.recent_posts %}
         <li>
           <a href="{{ site.github.url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
         </li>
