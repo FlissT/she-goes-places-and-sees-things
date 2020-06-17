@@ -63,7 +63,7 @@ meta:
 
 <h3 align="JUSTIFY">Key Summit</h3>
 <p align="JUSTIFY">Part of the South Island's Routeburn Track, one of New Zealand's nine Great Walks, the hike to Key Summit is not to be missed if visiting Fiordland. I did this walk while travelling on the Stray bus in 2015 as they include it as part of their Deep South route. Setting off before dawn one morning from Gunn's Camp, a lovely little campsite in the middle of nowhere, we walked for around an hour and a half up to the summit. The track is well-formed, climbing up through the forested mountain foothills and is generally pretty easy-going underfoot, if you factor out the steep gradient. Reaching the top, a marshy plateau sitting at an altitude of 919m, just as the sun was rising made for incredible views of the surrounding mountains and lakes jutting out from among the clouds. I would definitely recommend this walk, if you're not keen on the climb, just remember the views at the top will make it worthwhile!</p>
-<p align="center"><img src="{{ site.baseurl }}/assets/front-page/KeySummit.jpg" alt="Dawn on Key Summit" width="474" height="356" class="img-rounded"/></p>
+<p align="center"><img src="{{ site.baseurl }}/assets/front-page/keysummit.jpg" alt="Dawn on Key Summit" width="474" height="356" class="img-rounded"/></p>
 
 <h3 align="JUSTIFY">Lighthouse Climbs and Waterfall Walks</h3>
 <div style="float:left; padding-right:30px">
