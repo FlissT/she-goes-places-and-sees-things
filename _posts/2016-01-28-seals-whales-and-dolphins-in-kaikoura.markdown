@@ -37,7 +37,7 @@ meta:
 
 <h3 align="JUSTIFY">Seals</h3>
 <div style="float:left; padding-right:30px">
-<img src="{{ site.baseurl }}/assets/KaikouraSeals.jpg" alt="The seal colony" width="430" height="250" class="img-rounded"/>
+<img src="{{ site.baseurl }}/assets/KaikouraSeals.JPG" alt="The seal colony" width="430" height="250" class="img-rounded"/>
 </div>
 <p align="JUSTIFY">A large colony of Southern fur seals live at Point Kean, next to the car park near the Kaikoura Peninsula Walkway. Living so close to a car park, they are frequently visited by tourists and can often be seen lounging on the rocky beach. Despite their usually calm manner, you should never closely approach the seals as they can attack and move incredibly quickly, so make sure you stay a safe distance away and be aware of where they are as they are easy to mistake for a rock! They do generally seem fairly happy around humans though and when we visited, we even saw an adorable baby seal sitting on a low-lying tree branch, posing nicely for photographs.</p>
 <div style="float:right; padding-left:30px">
