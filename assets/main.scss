@@ -40,6 +40,6 @@ $on-laptop:        800px;
 @use "minima";
 
 // Partials.
-@import "_layout.scss";
+@use "_layout.scss";
 
 
