@@ -84,7 +84,8 @@
 .footer-col-wrapper {
   font-size: 15px;
   margin-left: -$spacing-unit / 2;
-  @extend %clearfix;
+  // added !optional to %clearfix, seemed to fix issue with site colours
+  @extend %clearfix !optional;
 }
 
 .footer-col {

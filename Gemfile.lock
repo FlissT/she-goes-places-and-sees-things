@@ -5,8 +5,8 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     ffi (1.13.1)
-    font-awesome-sass (4.7.0)
-      sass (>= 3.2)
+    font-awesome-sass (5.13.0)
+      sassc (>= 1.11)
     forwardable-extended (2.6.0)
     jekyll (3.6.3)
       addressable (~> 2.4)
@@ -19,10 +19,12 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.8.0)
+    jekyll-feed (0.11.0)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -31,8 +33,10 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    minima (2.1.0)
-      jekyll (~> 3.3)
+    minima (2.5.1)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.5)
@@ -46,6 +50,8 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    sassc (2.4.0)
+      ffi (~> 1.9)
 
 PLATFORMS
   ruby
@@ -57,7 +63,7 @@ DEPENDENCIES
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.7.1p83
 
 BUNDLED WITH
-   1.13.7
+   2.1.4
