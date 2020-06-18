@@ -38,8 +38,8 @@ meta:
   <div class="row">
     <div class="col-md-4">
       <div class="thumbnail">
-        <a href="{{ site.baseurl }}/assets/Walk-to-Island-Bay-029-2-300x84.jpg" target="_blank">
-          <img src="{{ site.baseurl }}/assets/Walk-to-Island-Bay-029-2-300x84.jpg" alt="Island Bay" style="width:100%"> 
+        <a href="{{ site.baseurl }}/assets/WalktoIslandBay029(2).JPG" target="_blank">
+          <img src="{{ site.baseurl }}/assets/WalktoIslandBay029(2).JPG" alt="Island Bay" style="width:100%"> 
         </a>
       </div>
     </div>
