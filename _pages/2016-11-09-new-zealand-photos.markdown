@@ -5,6 +5,7 @@ date: 2016-11-09 18:11:04.000000000 +00:00
 type: page
 published: true
 status: publish
+permalink: /NewZealand/
 categories: []
 tags: []
 meta:

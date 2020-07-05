@@ -3,28 +3,12 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">POSTS</h1>
-  {{ content }}
-  <ul class="post-list">
-      {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-     {% assign foundImage = 0 %}
-     {% assign images = post.content | split:"<img " %}
-     {% for image in images %}
-       {% if image contains 'src' %}
-         {% if foundImage == 0 %}
-           {% assign html = image | split:"/>" | first %}
-             <img {{ html }} />
-             {% assign foundImage = 1 %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      </li>
-    {% endfor %}
-  </ul>
+  <h2 class="page-heading">Travels</h2>
+  <a href="http://www.shegoesplaces.co.uk/travels.html" title="Travels">Travels</a>
+  <h2 class="page-heading">Running</h2>
+
+  <a href="http://www.shegoesplaces.co.uk/running.html" title="Running">Running</a>
+  <p></p>
+  
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>

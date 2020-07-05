@@ -2,6 +2,7 @@
 layout: page
 title: Travels
 date: 2020-07-04
+permalink: /travels/
 type: page
 
 
