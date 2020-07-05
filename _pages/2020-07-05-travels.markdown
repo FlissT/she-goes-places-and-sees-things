@@ -1,0 +1,25 @@
+---
+layout: page
+title: Travels
+date: 2020-07-04
+type: page
+
+
+---
+
+<h1 class="page-heading">POSTS</h1>
+ <ul class="post-list">
+ {% for post in site.posts %}
+    {% if post.categories contains "Travel" %} 
+     <li>
+     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+     <h2>
+       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+     </h2>
+     </li>
+     {% endif %}
+   {% endfor %}
+ </ul>
+
+
+
