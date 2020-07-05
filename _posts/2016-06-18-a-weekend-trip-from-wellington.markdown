@@ -5,9 +5,7 @@ date: 2016-06-18 14:16:40.000000000 +01:00
 type: post
 published: true
 status: publish
-categories:
-- New Zealand
-- Travel
+categories: [New Zealand, Travel]
 tags:
 - Day Trips
 - New Zealand

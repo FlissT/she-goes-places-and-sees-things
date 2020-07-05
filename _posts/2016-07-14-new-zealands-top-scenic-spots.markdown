@@ -5,9 +5,7 @@ date: 2016-07-14 23:02:03.000000000 +01:00
 type: post
 published: true
 status: publish
-categories:
-- New Zealand
-- Travel
+categories: [New Zealand, Travel]
 tags:
 - New Zealand
 - North Island

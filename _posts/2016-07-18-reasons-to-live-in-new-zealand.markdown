@@ -5,9 +5,7 @@ date: 2016-07-18 22:06:19.000000000 +01:00
 type: post
 published: true
 status: publish
-categories:
-- New Zealand
-- Travel
+categories: [New Zealand, Travel]
 tags:
 - New Zealand
 meta:

@@ -5,9 +5,7 @@ date: 2016-01-19 02:16:57.000000000 +00:00
 type: post
 published: true
 status: publish
-categories:
-- New Zealand
-- Travel
+categories: [New Zealand, Travel]
 tags:
 - Adventure
 - New Zealand

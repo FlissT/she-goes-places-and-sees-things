@@ -5,9 +5,7 @@ date: 2016-02-19 17:01:51.000000000 +00:00
 type: post
 published: true
 status: publish
-categories:
-- New Zealand
-- Travel
+categories: [New Zealand, Travel]
 tags:
 - Camping
 - East Coast

@@ -5,7 +5,7 @@ date: 2016-10-11 14:25:31.000000000 +01:00
 type: post
 published: true
 status: publish
-categories:
+categories: 
 - Travel
 tags:
 - Solo travel

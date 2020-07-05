@@ -5,9 +5,7 @@ date: 2016-01-24 21:09:51.000000000 +00:00
 type: post
 published: true
 status: publish
-categories:
-- New Zealand
-- Travel
+categories: [New Zealand, Travel]
 tags:
 - Geothermal
 - New Zealand

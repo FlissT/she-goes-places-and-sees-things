@@ -5,9 +5,7 @@ date: 2016-10-10 09:01:22.000000000 +01:00
 type: post
 published: true
 status: publish
-categories:
-- Scotland
-- Travel
+categories: [Scotland, Travel]
 tags:
 - Capital
 - Edinburgh

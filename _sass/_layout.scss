@@ -66,6 +66,7 @@
 .site-footer {
   border-top: 2px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: #00ba94;
 }
 
 .footer-heading {
@@ -78,7 +79,7 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  color: #999999;
+ # color: #999999;
 }
 
 .footer-col-wrapper {
@@ -138,6 +139,10 @@
   
 }
 
+body {
+background-color: #000000
+}
+
 .page-heading {
   font-size: 24px;
 }
@@ -194,6 +199,8 @@
   font-size: 36px;
   letter-spacing: -1px;
   line-height: 1;
+  color: $grey-color;
+
 
   @include media-query($on-laptop) {
     font-size: 36px;
@@ -202,6 +209,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  color: $grey-color;
 
   h2 {
     font-size: 32px;

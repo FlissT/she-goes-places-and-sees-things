@@ -5,9 +5,7 @@ date: 2016-01-18 07:35:41.000000000 +00:00
 type: post
 published: true
 status: publish
-categories:
-- New Zealand
-- Travel
+categories: [New Zealand, Travel]
 tags:
 - Capital
 - New Zealand
