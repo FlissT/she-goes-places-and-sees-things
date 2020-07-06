@@ -5,6 +5,7 @@ date: 2016-11-10 11:41:01.000000000 +00:00
 type: page
 published: true
 status: publish
+permalink: /AWanderThroughWellington/
 categories: []
 tags: []
 meta:

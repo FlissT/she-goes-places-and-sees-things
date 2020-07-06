@@ -1,72 +1,41 @@
 ---
 layout: default
 ---
-
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    
 <div class="home">
-  <h2 class="page-heading"><a href="http://www.shegoesplaces.co.uk/travels/" title="Travels">Travels</a></h2>
-  <h2 class="page-heading"><a href="http://www.shegoesplaces.co.uk/running/" title="Running">Running</a></h2>
+  <h2 class="page-heading"><a href="https://www.shegoesplaces.co.uk/travels/" title="Travels">Travels</a></h2>
+  <h2 class="page-heading"><a href="https://www.shegoesplaces.co.uk/running/" title="Running">Running</a></h2>
   <p></p>
   
-  <html>
-  <head>
-  <style>
-  div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-  }
+  <div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="https://www.shegoesplaces.co.uk/NewZealand/" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" alt="Abel Tasman" style="width:100%">
+        </a>
+      </div>
+    </div>
 
-  div.gallery:hover {
-    border: 1px solid #777;
-  }
-
-  div.gallery img {
-    width: 100%;
-    height: auto;
-  }
-
-  div.desc {
-    padding: 15px;
-    text-align: center;
-  }
-  </style>
-  </head>
-  <body>
-
-  <div class="gallery">
-    <a target="_blank" href="assets/front-page/abeltasman.jpg">
-      <img src="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" alt="Abel Tasman" width="420" height="300" class="img-rounded"/>
-    </a>
-    <div class="desc">Abel Tasman rainbow</div>
+  <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="https://www.shegoesplaces.co.uk/_pages/2016-12-03-australian-east-coast.html/" target="_blank">
+            <img src="{{ site.baseurl }}/assets/front-page/abeltasman.jpg" alt="Abel Tasman" style="width:100%">
+            </a>
+      </div>
+    </div>
+  
+  <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="https://www.shegoesplaces.co.uk/AWanderThroughWellington" target="_blank">
+          <img src="{{ site.baseurl }}/assets/front-page/abeltasmankayak.jpg" alt="Kayaking Abel Tasman" style="width:100%">
+        </a>
+      </div>
+    </div>
   </div>
-
-  <div class="gallery">
-    <a target="_blank" href="assets/front-page/aoraki.jpg">
-      <img src="{{ site.baseurl }}/assets/front-page/aoraki.jpg" alt="Mt Cook" width="420" height="300" class="img-rounded"/>
-    </a>
-    <div class="desc">Mt Cook</div>
-  </div>
-
-  <div class="gallery">
-    <a target="_blank" href="assets/front-page/cathedralcove.jpg">
-      <img src="{{ site.baseurl }}/assets/front-page/cathedralcove.jpg" alt="Cathedral Cove" width="420" height="300" class="img-rounded"/>
-    </a>
-    <div class="desc">Cathedral Cove</div>
-  </div>
-
-  <div class="gallery">
-    <a target="_blank" href="assets/front-page/keysummit.jpg">
-      <img src="{{ site.baseurl }}/assets/front-page/keysummit.jpg" alt="Key Summit" width="420" height="300" class="img-rounded"/>
-    </a>
-    <div class="desc">Key Summit</div>
-  </div>
-
-  </body>
-  </html>
- <p align="JUSTIFY">&nbsp;</p>
- <p align="JUSTIFY">&nbsp;</p>
- <p align="JUSTIFY">&nbsp;</p>
+ 
  <p align="JUSTIFY">&nbsp;</p>
  <p align="JUSTIFY">&nbsp;</p>
  <p align="JUSTIFY">&nbsp;</p>
@@ -80,3 +49,4 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>
+

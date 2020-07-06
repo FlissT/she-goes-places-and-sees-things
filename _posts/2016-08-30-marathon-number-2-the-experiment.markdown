@@ -9,14 +9,9 @@ categories:
 - Marathons
 - Running
 tags: []
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '26311854313'
-  _edit_last: '98472497'
-  _wp_old_slug: marathon-no-2-the-experiment
+
 ---
-<p class="western" align="JUSTIFY">So, a little while ago I decided it was time to attempt another marathon. As you'll know if you've read my previous post <a href="https://distancealltheway.wordpress.com/2015/12/11/my-first-marathon/">My first marathon</a>, I ran the Nottingham marathon almost exactly two years ago and in hindsight, I made a lot of rookie errors. This time, with the experience of one under my running belt, I want to try to do my preparation a little differently, to see if I can manage a more all-round successful race.</p>
+<p class="western" align="JUSTIFY">So, a little while ago I decided it was time to attempt another marathon. As you'll know if you've read my previous post <a href="http://www.shegoesplaces.co.uk/MyFirstMarathon/">My first marathon</a>, I ran the Nottingham marathon almost exactly two years ago and in hindsight, I made a lot of rookie errors. This time, with the experience of one under my running belt, I want to try to do my preparation a little differently, to see if I can manage a more all-round successful race.</p>
 
 <p class="western" align="JUSTIFY">For my first time, I followed a training plan, a sensible decision I thought, except I have a tendency to get a little obsessive and found myself following it a bit too strictly at times, scared to deviate from it even if I was exhausted or had an injury coming on. I was already a fairly experienced distance runner but during my marathon training, my weekly mileage shot up to an average of 50 miles a week with my longest week at just shy of 70 miles. This was a big difference from my usual 30 miles and looking back at my plan now, I wonder how I didn't completely fall apart. I ended up with plantar fascitiis among other injuries but instead of resting, I largely ignored them and kept going. Additionally, not a lot of my training was comprised of easy/steady running, I did hard workouts back-to-back such as 10km tempo on a Friday night followed by a Parkrun the next morning. I can see now that this approach gave me very little time to recover and was actually detrimental to my training. I was also a bit over-enthusiastic on my long runs. Most sources I have found suggest going up to 20 miles, however I decided on 22 miles and I had a tendency to push too hard on what should have been easy runs. This just meant that by the time I got to the actual marathon, I was exhausted, had lingering injuries and found it a lot harder than my training performances would have suggested, struggling by about 15 miles.</p>
 

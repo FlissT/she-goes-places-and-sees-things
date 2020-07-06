@@ -8,6 +8,7 @@ status: publish
 categories:
 - Marathons
 - Running
+permalink: /MyFirstMarathon/
 tags: []
 meta:
   _rest_api_published: '1'

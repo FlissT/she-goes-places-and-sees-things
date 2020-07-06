@@ -7,6 +7,7 @@ published: true
 status: publish
 categories: [Running]
 tags: []
+permalink: /RunningInNewZealand/
 meta:
   _wp_page_template: ''
   _publicize_pending: '1'
