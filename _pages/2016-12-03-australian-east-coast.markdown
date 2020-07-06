@@ -5,6 +5,7 @@ date: 2016-12-03 15:41:35.000000000 +00:00
 type: page
 published: true
 status: publish
+permalink: /AustralianEastCoast/
 categories: []
 tags: []
 
