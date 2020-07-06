@@ -10,11 +10,6 @@ categories:
 - Running
 permalink: /MyFirstMarathon/
 tags: []
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '17685626681'
-  _edit_last: '98472497'
 
 ---
 <p class="western" align="JUSTIFY">After several years of competing over distances from 5k to half marathons, I felt the urge to step up to the marathon. It had always been a dream of mine, the thrill of doing something extreme, a huge physical challenge, to push myself to the limit.</p>

@@ -1,27 +1,17 @@
 ---
 layout: post
-title: ROTORUA ADVENTURES
+title: Rotorua Adventures
 date: 2016-01-24 21:09:51.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /RotoruaAdventures/
 categories: [New Zealand, Travel]
 tags:
 - Geothermal
 - New Zealand
 - North Island
-meta:
-  _publicize_pending: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _wpcom_is_markdown: '1'
-  _yoast_wpseo_focuskw_text_input: rotorua adventures
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '4'
-  _jetpack_dont_email_post_to_subs: '1'
-  _wp_old_slug: '92'
-  original_post_id: '92'
-  _thumbnail_id: '99'
+
 
 ---
 <p align="JUSTIFY">Rotorua is a reasonably large town by New Zealand standards of some 56,000 people, situated fairly centrally in the North Island, just south of the Bay of Plenty. There are many lakes in the area, the town itself lying on the shores of the largest one, Lake Rotorua.</p>

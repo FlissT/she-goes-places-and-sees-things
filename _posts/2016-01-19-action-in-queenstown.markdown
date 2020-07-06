@@ -1,27 +1,17 @@
 ---
 layout: post
-title: ACTION IN QUEENSTOWN
+title: Action In Queenstown
 date: 2016-01-19 02:16:57.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /ActionInQueenstown/
 categories: [New Zealand, Travel]
 tags:
 - Adventure
 - New Zealand
 - Queenstown
 - South Island
-meta:
-  _publicize_pending: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _wpcom_is_markdown: '1'
-  _yoast_wpseo_focuskw_text_input: queenstown adrenaline
-  _yoast_wpseo_content_score: '30'
-  _wp_old_slug: '40'
-  _yoast_wpseo_primary_category: '4'
-  _jetpack_dont_email_post_to_subs: '1'
-  original_post_id: '40'
 
 ---
 <p align="center"><img src="{{ site.baseurl }}/assets/IMG_4183-2-1024x768.jpg" alt="On the shore of Lake Wakatipu" width="486" height="365" class="img-rounded"/></p>

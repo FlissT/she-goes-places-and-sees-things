@@ -1,26 +1,16 @@
 ---
 layout: post
-title: THE TOP OF THE SOUTH ISLAND
+title: The Top Of The South Island 
 date: 2016-01-27 18:21:38.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /TheTopOfTheSouthIsland
 categories: [New Zealand, Travel]
 tags:
 - New Zealand
 - South Island
-meta:
-  _publicize_pending: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _wpcom_is_markdown: '1'
-  _yoast_wpseo_focuskw_text_input: south island
-  _yoast_wpseo_content_score: '30'
-  _wp_old_slug: '206'
-  _yoast_wpseo_primary_category: '4'
-  _jetpack_dont_email_post_to_subs: '1'
-  original_post_id: '206'
-  _thumbnail_id: '210'
+
 
 ---
 <p align="JUSTIFY">The northern end of New Zealand's South Island is made up of the regions of Marlborough, Nelson and the Abel Tasman National Park. <a href="https://en.wikipedia.org/wiki/Picton,_New_Zealand" target="_blank">Picton </a>is a small town in Marlborough with a population of only 4,330 yet it is a major gateway to the South Island as it is where the ferries from Wellington arrive after their journey through the stunning Queen Charlotte Sounds. The city of Nelson is a much bigger, more populated place, home to around 46,000 people and claims to be the 'centre of New Zealand'. From the city, the edge of the Abel Tasman National Park can be seen across the Tasman Bay. Motueka is one of the largest towns in the region with around 8000 people and the tiny Marahau is the entry point to the Abel Tasman Great Walk.</p>

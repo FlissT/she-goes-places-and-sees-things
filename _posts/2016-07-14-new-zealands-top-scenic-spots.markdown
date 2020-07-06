@@ -1,24 +1,17 @@
 ---
 layout: post
-title: NEW ZEALAND'S TOP SCENIC SPOTS
+title: New Zealand's Top Scenic Spots
 date: 2016-07-14 23:02:03.000000000 +01:00
 type: post
 published: true
 status: publish
+permalink: /NewZealandsTopScenicSpots/
 categories: [New Zealand, Travel]
 tags:
 - New Zealand
 - North Island
 - South Island
 meta:
-  _publicize_pending: '1'
-  _wpcom_is_markdown: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _yoast_wpseo_primary_category: '4'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw_text_input: natural beauty
-  _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '356'
   _wp_old_slug: '356'
   _thumbnail_id: '364'

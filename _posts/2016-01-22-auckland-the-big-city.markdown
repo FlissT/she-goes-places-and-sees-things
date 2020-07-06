@@ -1,26 +1,15 @@
 ---
 layout: post
-title: 'AUCKLAND: THE BIG CITY'
+title: 'Auckland: The Big City'
 date: 2016-01-22 17:06:49.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /AucklandTheBigCity/
 categories: [New Zealand, Travel]
 tags:
 - New Zealand
 - North Island
-meta:
-  _publicize_pending: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _wpcom_is_markdown: '1'
-  _yoast_wpseo_focuskw_text_input: auckland
-  _yoast_wpseo_content_score: '30'
-  _wp_old_slug: '61'
-  _yoast_wpseo_primary_category: '4'
-  _jetpack_dont_email_post_to_subs: '1'
-  original_post_id: '61'
-  _thumbnail_id: '72'
 
 ---
 <div style="float:left; padding-right:30px">

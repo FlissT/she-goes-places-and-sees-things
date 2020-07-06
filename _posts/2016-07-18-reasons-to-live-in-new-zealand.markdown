@@ -1,23 +1,15 @@
 ---
 layout: post
-title: REASONS TO LIVE IN NEW ZEALAND (AND TO BE CHEERFUL!)
+title: Reasons To Live In New Zealand
 date: 2016-07-18 22:06:19.000000000 +01:00
 type: post
 published: true
 status: publish
+permalink: /ReasonsToLiveInNewZealand/
 categories: [New Zealand, Travel]
 tags:
 - New Zealand
 meta:
-  _publicize_pending: '1'
-  _wpcom_is_markdown: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _yoast_wpseo_primary_category: '4'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_focuskw_text_input: live in New Zealand
-  _wp_old_slug: '372'
-  _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '372'
   _thumbnail_id: '374'
 

@@ -1,23 +1,16 @@
 ---
 layout: post
-title: THE JOYS OF TRAVELLING SOLO
+title: The Joys Of Travelling Solo
 date: 2016-10-11 14:25:31.000000000 +01:00
 type: post
 published: true
 status: publish
+permalink: /TheJoysOfTravellingSolo/
 categories: 
 - Travel
 tags:
 - Solo travel
 meta:
-  _publicize_pending: '1'
-  _wpcom_is_markdown: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _yoast_wpseo_focuskw_text_input: solo
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: ''
-  _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '394'
   _wp_old_slug: '394'
 

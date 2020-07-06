@@ -5,10 +5,7 @@ date: 2020-07-04
 permalink: /travels/
 type: page
 
-
 ---
-
-<h1 class="page-heading">POSTS</h1>
  <ul class="post-list">
  {% for post in site.posts %}
     {% if post.categories contains "Travel" %} 
@@ -21,6 +18,5 @@ type: page
      {% endif %}
    {% endfor %}
  </ul>
-
 
 

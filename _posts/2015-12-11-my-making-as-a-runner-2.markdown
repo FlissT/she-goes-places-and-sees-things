@@ -1,18 +1,15 @@
 ---
 layout: post
-title: The beginnings of a runner
+title: The Beginnings Of A Runner
 date: 2015-12-11 04:58:57.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /TheBeginningsOfARunner/
 categories:
 - Running
 tags: []
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '17684312524'
-  _edit_last: '98472497'
+
 ---
 <p class="western" align="JUSTIFY">s a child, I didn't really enjoy running. School cross country events involved running laps of a muddy football field in the depths of winter and otherwise the school didn't encourage the sport very much. In fact, I only began running when I was 12, when my younger brother joined the local athletics club and I was too young to be left home alone, so I joined in.</p>
 

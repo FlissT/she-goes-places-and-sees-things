@@ -1,10 +1,11 @@
 ---
 layout: post
-title: MELBOURNE TO CAIRNS IN 30 DAYS
+title: Melbourne To Cairns In 30 Days
 date: 2016-12-02 23:10:29.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /MelbourneToCairnsIn30Days/
 categories:
 - Australia
 - Travel
@@ -15,15 +16,6 @@ tags:
 - Solo travel
 - Travel
 meta:
-  _publicize_pending: '1'
-  _layout: inherit
-  _yoast_wpseo_primary_category: '4'
-  _yoast_wpseo_content_score: '30'
-  _wpcom_is_markdown: '1'
-  _edit_last: '98472497'
-  _yoast_wpseo_focuskw_text_input: Melbourne
-  _jetpack_dont_email_post_to_subs: '1'
-  _wpas_skip_16122666: '1'
   original_post_id: '544'
   _wp_old_slug: '544'
   _thumbnail_id: '550'

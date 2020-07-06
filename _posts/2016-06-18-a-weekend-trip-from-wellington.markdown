@@ -1,10 +1,11 @@
 ---
 layout: post
-title: A WEEKEND TRIP FROM WELLINGTON
+title: A Weekend Trip From Wellington
 date: 2016-06-18 14:16:40.000000000 +01:00
 type: post
 published: true
 status: publish
+permalink: /AWeekendTripFromWellington/
 categories: [New Zealand, Travel]
 tags:
 - Day Trips
@@ -12,16 +13,7 @@ tags:
 - North Island
 - Wellington
 meta:
-  _publicize_pending: '1'
-  _wpcom_is_markdown: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _yoast_wpseo_focuskw_text_input: weekend trip
-  _yoast_wpseo_content_score: '30'
-  _wp_old_slug: '321'
-  _yoast_wpseo_primary_category: ''
-  _jetpack_dont_email_post_to_subs: '1'
-  original_post_id: '321'
+
 
 ---
 <p align="JUSTIFY">Wellington, the capital city tucked in between the hills and the harbour, makes an excellent starting point for day or weekend trips away. Whether you decide to drive, take a bus, a train or a ferry, after travelling for even just half an hour you can feel right out in the middle of nowhere. If you want to visit somewhere that is really remote though, or fancy exploring the surrounding area then driving is probably the easiest option and with several car hire companies in Wellington starting at about $40 a day, it is not unaffordable.</p>

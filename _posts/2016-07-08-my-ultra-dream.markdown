@@ -5,6 +5,7 @@ date: 2016-07-08 05:51:32.000000000 +01:00
 type: post
 published: true
 status: publish
+permalink: /MyUltraDream/
 categories:
 - Running
 tags: []

@@ -1,27 +1,17 @@
 ---
 layout: post
-title: WELCOME TO WELLINGTON!
+title: Welcome To Wellington!
 date: 2016-01-18 07:35:41.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /WelcomeToWellington/
 categories: [New Zealand, Travel]
 tags:
 - Capital
 - New Zealand
 - North Island
-meta:
-  _publicize_pending: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _wpcom_is_markdown: '1'
-  _yoast_wpseo_content_score: '60'
-  _yoast_wpseo_primary_category: '4'
-  _yoast_wpseo_focuskw_text_input: coolest little capital
-  _jetpack_dont_email_post_to_subs: '1'
-  original_post_id: '29'
-  _wp_old_slug: '29'
-  _thumbnail_id: '30'
+
 
 ---
 

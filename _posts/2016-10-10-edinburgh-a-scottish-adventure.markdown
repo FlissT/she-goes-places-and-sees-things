@@ -1,24 +1,17 @@
 ---
 layout: post
-title: EDINBURGH - A SCOTTISH ADVENTURE!
+title: Edinburgh - A Scottish Adventure
 date: 2016-10-10 09:01:22.000000000 +01:00
 type: post
 published: true
 status: publish
+permalink: /EdinburghAScottishAdventure/
 categories: [Scotland, Travel]
 tags:
 - Capital
 - Edinburgh
 - Scotland
 meta:
-  _publicize_pending: '1'
-  _wpcom_is_markdown: '1'
-  _edit_last: '98472497'
-  _layout: inherit
-  _yoast_wpseo_focuskw_text_input: scottish adventure
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '4'
-  _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '377'
   _wp_old_slug: '377'
 

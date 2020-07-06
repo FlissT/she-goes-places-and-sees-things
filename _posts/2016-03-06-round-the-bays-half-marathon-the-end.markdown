@@ -5,15 +5,12 @@ date: 2016-03-06 22:46:13.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /RoundTheBaysHalfMarathonTheEnd/
 categories:
 - Half-Marathons
 - Running
 tags: []
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '20499404036'
-  _edit_last: '98472497'
+
 ---
 <p class="western" align="JUSTIFY">After a much more restrained week of tapering than I'm used to and plenty of carbs for a couple of days beforehand, it was finally race day. The gun went off at 7:45am which meant that being able to have enough time for my usual race routine made it an early morning for me! After a light breakfast, I sauntered down to the race start area armed with jellybeans, my pesto pasta and my wonderful supporter, to whom I am incredibly grateful for managing to get up so early on a Sunday morning just to accompany me to the start and pick me up, quite literally off the floor, at the finish.</p>
 

@@ -5,6 +5,7 @@ date: 2016-08-30 18:19:07.000000000 +01:00
 type: post
 published: true
 status: publish
+permalink: /MarathonNo2TheExperiment/
 categories:
 - Marathons
 - Running

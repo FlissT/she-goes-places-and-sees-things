@@ -1,22 +1,15 @@
 ---
 layout: post
-title: BEST BRITISH CITIES
+title: Best British Cities
 date: 2016-11-08 17:15:51.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /BestBritishCities/
 categories:
 - Travel
 tags: []
 meta:
-  _publicize_pending: '1'
-  _edit_last: '98472497'
-  _wpcom_is_markdown: '1'
-  _yoast_wpseo_content_score: '30'
-  _layout: inherit
-  _yoast_wpseo_primary_category: ''
-  _yoast_wpseo_focuskw_text_input: city
-  _jetpack_dont_email_post_to_subs: '1'
   original_post_id: '447'
   _wp_old_slug: '447'
   _thumbnail_id: '459'

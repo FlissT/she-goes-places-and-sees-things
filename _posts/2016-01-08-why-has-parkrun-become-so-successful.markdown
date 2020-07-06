@@ -5,14 +5,11 @@ date: 2016-01-08 02:10:57.000000000 +00:00
 type: post
 published: true
 status: publish
+permalink: /WhyHasParkrunBecomeSoSuccessful/
 categories:
 - Running
 tags: []
-meta:
-  _rest_api_published: '1'
-  _rest_api_client_id: "-1"
-  _publicize_job_id: '18526002066'
-  _edit_last: '98472497'
+
 ---
 <p class="western" align="JUSTIFY">Parkrun, I think, is pretty much a running phenomenon that has taken over the UK in the last few years. The free 5k Saturday runs are everywhere, a quick glance at the event location map on the Parkrun website shows a dense sea of yellow dots over most of the country <sub>(<a href="http://www.parkrun.org.uk/events/events/">http://www.parkrun.org.uk/events/events/</a>) </sub>, meaning that at least one event is going to be within easy reach of a huge number of people. It's not just happening in the UK either, the same map shows popularity in some European countries as well as South Africa, Australia and New Zealand, worldwide it involves some 1,339,426 runners <sub>(<a href="http://www.parkrun.com/">http://www.parkrun.com/</a>, as of January 2016), </sub>which is incredible.</p>
 
