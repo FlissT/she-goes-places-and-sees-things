@@ -32,9 +32,10 @@ Your browser does not support the video tag.
 
 <p class="western" align="JUSTIFY">I crossed the line of lap 16 in 1 hour, 2 minutes and 14 seconds and to be honest, was pretty glad to ring the bell to signal to all that I was done. I had run 105km and had been going for 16 hours. After a quick photo with my commiseratory dog tags and a full change of clothes (difficult in a tiny tent!), I did what was probably the most sensible thing I've ever done after an ultra and downed a protein-packed recovery drink (tasty chocolate flavour Tailwind Rebuild).</p>
 
+<div style="float:left; padding-right:30px">
 <img src="{{ site.baseurl }}/assets/IMG_3765.jpeg" alt="Consolation dog tags" width="225" height="320" class="img-rounded"/>
 <img src="{{ site.baseurl }}/assets/IMG_2906.jpeg" alt="Finish photo" width="225" height="320" class="img-rounded"/>
-
+</div>
 
 <p class="western" align="JUSTIFY">Whilst the race itself wasn't hard at all intensity-wise, I woke up that morning (3 hours later) with the stiffest legs imaginable. I couldn't straighten my legs or put my feet flat on the floor, which made walking and clearing away our tent quite challenging. I spent the rest of the next two days mostly in bed, occasionally undertaking a hands-and-knees crawl up and down the stairs. Weirdly, my muscles themselves felt fine. I think the problem was the tendons in backs of my knees, likely strained by so much fast walking up hills, which is definitely something I would practise for next time. If it wasn't for this, I think I could have kept going for a fair while longer. In hindsight, I'm glad I stopped when I did as I think if I had pushed on, I would have risked doing some proper damage to those tendons, although I was slightly disappointed when I realised the last woman standing had finished having completed lap 16 within the hour (maybe because she realised I hadn't come back in time).</p>
 
