@@ -33,14 +33,17 @@ Your browser does not support the video tag.
 <div style="float:left; padding-right:30px">
 <img src="{{ site.baseurl }}/assets/IMG_3765.jpeg" alt="Consolation dog tags" width="225" height="320" class="img-rounded"/>
 </div>
-<p align="JUSTIFY">&nbsp;</p>
-<p align="JUSTIFY">&nbsp;</p>
-<p align="JUSTIFY">&nbsp;</p>
-<p align="JUSTIFY">Whilst the race itself wasn't hard at all intensity-wise, I woke up that morning (3 hours later) with the stiffest legs imaginable. I couldn't straighten my legs or put my feet flat on the floor, which made walking and clearing away our tent quite challenging. I spent the rest of the next two days mostly in bed, occasionally undertaking a hands-and-knees crawl up and down the stairs. Weirdly, my muscles themselves felt fine. I think the problem was the tendons in backs of my knees, likely strained by so much fast walking up hills, which is definitely something I would practise for next time. If it wasn't for this, I think I could have kept going for a fair while longer. In hindsight, I'm glad I stopped when I did as I think if I had pushed on, I would have risked doing some proper damage to those tendons, although I was slightly disappointed when I realised the last woman standing had finished having completed lap 16 within the hour (maybe because she realised I hadn't come back in time).</p>
 <div style="float:right; padding-left:30px; padding-bottom:30px">
 <img src="{{ site.baseurl }}/assets/IMG_1906.jpeg" alt="Finish photo" width="225" height="320" class="img-rounded"/>
 </div>
 <p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY">&nbsp;</p>
+<p align="JUSTIFY">Whilst the race itself wasn't hard at all intensity-wise, I woke up that morning (3 hours later) with the stiffest legs imaginable. I couldn't straighten my legs or put my feet flat on the floor, which made walking and clearing away our tent quite challenging. I spent the rest of the next two days mostly in bed, occasionally undertaking a hands-and-knees crawl up and down the stairs. Weirdly, my muscles themselves felt fine. I think the problem was the tendons in backs of my knees, likely strained by so much fast walking up hills, which is definitely something I would practise for next time. If it wasn't for this, I think I could have kept going for a fair while longer. In hindsight, I'm glad I stopped when I did as I think if I had pushed on, I would have risked doing some proper damage to those tendons, although I was slightly disappointed when I realised the last woman standing had finished having completed lap 16 within the hour (maybe because she realised I hadn't come back in time).</p>
+
+<p align="JUSTIFY">&nbsp;</p>
 <p align="JUSTIFY">Overall, the backyard ultra was a great event and a very different sort of challenge to a "normal" ultra. I'm proud of what I achieved, although I think I was far from finding my limits, and it creates a good baseline for another attempt in the future!</p>
 <p align="JUSTIFY">&nbsp;</p>
+<div style="float:right; padding-left:30px; padding-bottom:30px">
 <img src="{{ site.baseurl }}/assets/IMG_1907.jpeg" alt="Consolation dog tags" width="300" height="320" class="img-rounded"/>
+</div>
