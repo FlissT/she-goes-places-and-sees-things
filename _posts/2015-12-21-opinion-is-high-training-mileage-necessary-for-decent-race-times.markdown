@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OPINION: Is High Training Mileage Necessary For Decent Race Times?'
+title: 'Opinion: Is High Training Mileage Necessary For Decent Race Times?'
 date: 2015-12-21 06:24:47.000000000 +00:00
 type: post
 published: true
