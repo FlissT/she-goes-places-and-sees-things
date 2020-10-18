@@ -20,7 +20,7 @@ tags: []
 <p align="JUSTIFY">Lining up at 12 noon for the first start line, I was very nervous, probably the most nervous I've been before a race. How fast should I go? When and how much should I walk? What will I need between loops? Although I had watched the pre-race video recce of the course, the first lap was about finding a pace and mentally noting some personal checkpoints. The walking bit actually fell into place quite nicely, as each mile seemed to have a long-ish uphill section which almost everyone walked. I completed lap 1 in 48:30, leaving me with 11 minutes before I had to be back on the start line. It turns out you can get quite a lot done in 11 minutes when you have to!</p>
 <p align="JUSTIFY">&nbsp;</p>
 <video width="320" height="240" controls loop>
-<source src="running.mp4" type="video/mp4">
+<source src="running.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <p align="JUSTIFY">&nbsp;</p>
@@ -31,19 +31,17 @@ Your browser does not support the video tag.
 <p align="JUSTIFY">I crossed the line of lap 16 in 1 hour, 2 minutes and 14 seconds and to be honest, was pretty glad to ring the bell to signal to all that I was done. I had run 105km and had been going for 16 hours. After a quick photo with my commiseratory dog tags and a full change of clothes (difficult in a tiny tent!), I did what was probably the most sensible thing I've ever done after an ultra and downed a protein-packed recovery drink (tasty chocolate flavour Tailwind Rebuild).</p>
 <p align="JUSTIFY">&nbsp;</p>
 <div style="float:left; padding-right:30px">
-<img src="{{ site.baseurl }}/assets/IMG_3765.jpeg" alt="Consolation dog tags" width="225" height="320" class="img-rounded"/>
+<img src="{{ site.baseurl }}/assets/IMG_3765.jpeg" alt="Consolation dog tags" width="250" height="300" class="img-rounded"/>
 </div>
 <div style="float:right; padding-left:30px; padding-bottom:30px">
 <img src="{{ site.baseurl }}/assets/IMG_1906.jpeg" alt="Finish photo" width="225" height="320" class="img-rounded"/>
 </div>
-<p align="JUSTIFY">&nbsp;</p>
-<p align="JUSTIFY">&nbsp;</p>
 <p align="JUSTIFY">&nbsp;</p>
 <p align="JUSTIFY">Whilst the race itself wasn't hard at all intensity-wise, I woke up that morning (3 hours later) with the stiffest legs imaginable. I couldn't straighten my legs or put my feet flat on the floor, which made walking and clearing away our tent quite challenging. I spent the rest of the next two days mostly in bed, occasionally undertaking a hands-and-knees crawl up and down the stairs. Weirdly, my muscles themselves felt fine. I think the problem was the tendons in backs of my knees, likely strained by so much fast walking up hills, which is definitely something I would practise for next time. If it wasn't for this, I think I could have kept going for a fair while longer. In hindsight, I'm glad I stopped when I did as I think if I had pushed on, I would have risked doing some proper damage to those tendons, although I was slightly disappointed when I realised the last woman standing had finished having completed lap 16 within the hour (maybe because she realised I hadn't come back in time).</p>
 
 <p align="JUSTIFY">&nbsp;</p>
 <p align="JUSTIFY">Overall, the backyard ultra was a great event and a very different sort of challenge to a "normal" ultra. I'm proud of what I achieved, although I think I was far from finding my limits, and it creates a good baseline for another attempt in the future!</p>
 <p align="JUSTIFY">&nbsp;</p>
-<div style="float:right; padding-left:30px; padding-bottom:30px">
-<img src="{{ site.baseurl }}/assets/IMG_1907.jpeg" alt="Consolation dog tags" width="300" height="320" class="img-rounded"/>
+<div style="padding-left:30px; padding-bottom:30px">
+<img src="{{ site.baseurl }}/assets/IMG_1907.jpeg" alt="View of the campsite" width="350" height="320" class="img-rounded"/>
 </div>
