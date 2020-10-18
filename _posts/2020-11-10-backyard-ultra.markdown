@@ -20,9 +20,10 @@ tags: []
 <p align="JUSTIFY">Lining up at 12 noon for the first start line, I was very nervous, probably the most nervous I've been before a race. How fast should I go? When and how much should I walk? What will I need between loops? Although I had watched the pre-race video recce of the course, the first lap was about finding a pace and mentally noting some personal checkpoints. The walking bit actually fell into place quite nicely, as each mile seemed to have a long-ish uphill section which almost everyone walked. I completed lap 1 in 48:30, leaving me with 11 minutes before I had to be back on the start line. It turns out you can get quite a lot done in 11 minutes when you have to!</p>
 <p align="JUSTIFY">&nbsp;</p>
 <video width="320" height="240" controls autoplay>
-<source src="{{ site.baseurl }}/assets/running.mov" type="video/mp4">
+<source src="running.mov" type="video/mov">
 Your browser does not support the video tag.
 </video>
+
 <p align="JUSTIFY">&nbsp;</p>
 <p align="JUSTIFY">The next few laps slipped by pretty easily, the hardest part was trying to take on enough fuel between laps as it didn't really feel like I needed it in those early stages but I know that skipping it would have resulted in a pretty short day out. Soon, it was night time and the headtorches came out from lap 6 onwards. The trail seemed to change completely in the dark and I took a couple of laps to get to grips with it again. Whilst I've done plenty of training in the dark before, I haven't done a huge amount late in the evening, so running after about 10pm started to feel a bit strange. At midnight, after 12 hours of running, I hit my first personal goal - 50 miles. This is the furthest I've ever run in the past so was somewhat of a benchmark for me and I got there feeling pretty good! It seemed like my consistent lap times (just under 50 minutes) and fuelling plan (Tailwind, potato soup and instant noodles) were working nicely.</p>
 
