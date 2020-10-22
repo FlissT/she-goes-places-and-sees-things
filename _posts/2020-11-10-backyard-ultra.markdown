@@ -20,7 +20,7 @@ tags: []
 <p align="JUSTIFY">Lining up at 12 noon for the first start line, I was very nervous, probably the most nervous I've been before a race. How fast should I go? When and how much should I walk? What will I need between loops? Although I had watched the pre-race video recce of the course, the first lap was about finding a pace and mentally noting some personal checkpoints. The walking bit actually fell into place quite nicely, as each mile seemed to have a long-ish uphill section which almost everyone walked. I completed lap 1 in 48:30, leaving me with 11 minutes before I had to be back on the start line. It turns out you can get quite a lot done in 11 minutes when you have to!</p>
 <p align="JUSTIFY">&nbsp;</p>
 <video width="320" height="240" autoplay>
-<source src="running.mov" type="video/mp4">
+<source src="{{ site.baseurl }}/assets/running.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
