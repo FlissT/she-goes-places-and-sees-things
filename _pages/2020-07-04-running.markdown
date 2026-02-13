@@ -3,7 +3,7 @@ layout: page
 title: Running
 date: 2020-07-04
 permalink: /running/
-type: Page
+type: page
 
 
 ---
