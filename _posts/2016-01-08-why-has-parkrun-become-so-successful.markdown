@@ -7,7 +7,6 @@ published: true
 status: publish
 permalink: /WhyHasParkrunBecomeSoSuccessful/
 categories:
-- Running
 tags: []
 
 ---
