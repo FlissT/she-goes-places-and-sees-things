@@ -7,8 +7,6 @@ published: true
 status: publish
 permalink: /MarathonNo2TheExperiment/
 categories:
-- Marathons
-- Running
 tags: []
 
 ---
