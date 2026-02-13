@@ -7,7 +7,6 @@ published: true
 status: publish
 permalink: /TheJoysOfTravellingSolo/
 categories: 
-- Travel
 tags:
 - Solo travel
 meta:
