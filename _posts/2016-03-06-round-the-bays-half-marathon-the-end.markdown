@@ -7,8 +7,6 @@ published: true
 status: publish
 permalink: /RoundTheBaysHalfMarathonTheEnd/
 categories:
-- Half-Marathons
-- Running
 tags: []
 
 ---
