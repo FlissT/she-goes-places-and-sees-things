@@ -7,7 +7,6 @@ published: true
 status: publish
 permalink: /MyUltraDream/
 categories:
-- Running
 tags: []
 meta:
   _rest_api_published: '1'
