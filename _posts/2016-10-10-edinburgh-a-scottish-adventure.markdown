@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 permalink: /EdinburghAScottishAdventure/
-categories: [Scotland, Travel]
+categories:
 tags:
 - Capital
 - Edinburgh
