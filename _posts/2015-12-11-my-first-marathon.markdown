@@ -6,8 +6,6 @@ type: post
 published: true
 status: publish
 categories:
-- Marathons
-- Running
 permalink: /MyFirstMarathon/
 tags: []
 
