@@ -7,8 +7,6 @@ published: true
 status: publish
 permalink: /TheMarathonExperimentConclusion/
 categories:
-- Marathons
-- Running
 tags: []
 meta:
  
