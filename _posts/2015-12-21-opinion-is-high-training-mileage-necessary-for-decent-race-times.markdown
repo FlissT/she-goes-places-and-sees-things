@@ -7,7 +7,6 @@ published: true
 status: publish
 permalink: /OpinionIsHighMileageNecessary/
 categories:
-- Running
 tags: []
 
 ---
